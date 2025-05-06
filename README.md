@@ -1,7 +1,10 @@
 ### ¡Hola a todos! Mi nombre es Alan - KerA 👋
 
 ## Soy FrontEnd Developer
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ke-A)](https://github.com/Ker-A/github-readme-stats)
+![Website](https://img.shields.io/website?url=https%3A%2F%2Fcv-alanyaeltaverabazan.vercel.app%2F&style=for-the-badge)
+
+
+
 ### Contactame!:
 
 [<img align="bottom" alt="capdesis.com" width="22px" src="https://cdn.icon-icons.com/icons2/1154/PNG/512/1486564415-globe_81515.png" />][website]
