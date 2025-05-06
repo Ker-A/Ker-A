@@ -36,88 +36,11 @@ __Desarrollo Móvil:__
 ---
 __Diseño:__
 <br />
-<img align="bottom" src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/xd/xd-plain.svg" width="30" height="30" />
+<img align="bottom" src="��<svg xmlns="http://www.w3.org/2000/svg" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality" fill-rule="evenodd" clip-rule="evenodd" viewBox="0 0 346 512.36"><g fill-rule="nonzero"><path fill="#00B6FF" d="M172.53 246.9c0-42.04 34.09-76.11 76.12-76.11h11.01c.3.01.63-.01.94-.01 47.16 0 85.4 38.25 85.4 85.4 0 47.15-38.24 85.39-85.4 85.39-.31 0-.64-.01-.95-.01l-11 .01c-42.03 0-76.12-34.09-76.12-76.12V246.9z"/><path fill="#24CB71" d="M0 426.98c0-47.16 38.24-85.41 85.4-85.41l87.13.01v84.52c0 47.65-39.06 86.26-86.71 86.26C38.67 512.36 0 474.13 0 426.98z"/><path fill="#FF7237" d="M172.53.01v170.78h87.13c.3-.01.63.01.94.01 47.16 0 85.4-38.25 85.4-85.4C346 38.24 307.76 0 260.6 0c-.31 0-.64.01-.95.01h-87.12z"/><path fill="#FF3737" d="M0 85.39c0 47.16 38.24 85.4 85.4 85.4h87.13V.01H85.39C38.24.01 0 38.24 0 85.39z"/><path fill="#874FFF" d="M0 256.18c0 47.16 38.24 85.4 85.4 85.4h87.13V170.8H85.39C38.24 170.8 0 209.03 0 256.18z"/></g></svg>" width="30" height="30" />
 <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" width="30" height="30" />
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/premierepro/premierepro-original.svg" width="30" height="30" />
 <br />
 
 ---
-__Cursos:__
-<br />
-<img align="bottom" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg" width="30" height="30" />
-<img align="left" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" width="30" height="30" />
-<img align="left" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg" width="30" height="30" />
-<br />
 
----
-### 📺 Mis aplicaciones
-
-[<img align="left" alt="Formulae Calculo" width="30px" src="https://play-lh.googleusercontent.com/5kLMnce84PkTt4hQEnvN5iWW8FJUqlm07R7Y-V5dYch9KPloLLUghyDw9_a611A6DA=s180-rw" />][Formulae]
-**Formulae Calculo** *(Gratis)*
-<br />
-<br />
-[<img align="left" alt="Fisica" width="30px" src="https://play-lh.googleusercontent.com/PRdpXg1uGaRQiP5SSJaEL8EvYtgdEC3sDBN1lclrHXINKRJezcXJ9Onr09l2yxxOX4k=s180-rw" />][Fisica]
-**Calculadora de Fisica** *(Gratis)*
-<br />
-<br />
-[<img align="left" alt="Formulae Calculo Pro" width="30px" src="https://play-lh.googleusercontent.com/5kLMnce84PkTt4hQEnvN5iWW8FJUqlm07R7Y-V5dYch9KPloLLUghyDw9_a611A6DA=s180-rw" />][FormulaePro]
-**Formulae Calculo Pro** *(De Pago)*
-<br />
-<br />
-
-## 🔎 Mis estadisticas:
-<details>
-    <summary>🔎 Ver</summary>
-    
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=chochy2001&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chochy2001&show_icons=true&theme=tokyonight)
-
-<br />
-
-</details>
-
-## 📺 Últimos vídeos de YouTube
-<details>
-    <summary>📺 Ver</summary>
-    
-<!-- YOUTUBE:START -->
-- [Pablinsky / @CHOCHY](https://www.youtube.com/watch?v=SaQbp9SOLfM)
-- [Duós con Suscriptor de 8 años](https://www.youtube.com/watch?v=dDzSPNym1Go)
-- [Haciendo merge entre ramas en Git / @CHOCHY](https://www.youtube.com/watch?v=Nh7_qzfCgoM)
-- [Duós con Xbaby_bratzx](https://www.youtube.com/watch?v=qBO_udNhEso)
-- [Que son las ramas y como funcionan en Git / @CHOCHY](https://www.youtube.com/watch?v=0RxbgT-szXc)
-<!-- YOUTUBE:END -->
-    
-</details>
-
-## ❗️ Actividad Reciente
-<details>
-    <summary>❗️ Ver</summary>
-    
-<!--START_SECTION:activity-->
-1. ❗️ Closed issue [#10](https://github.com/ValeMerch/Git_GitHub/issues/10) in [ValeMerch/Git_GitHub](https://github.com/ValeMerch/Git_GitHub)
-2. ❗️ Closed issue [#13](https://github.com/ValeMerch/Git_GitHub/issues/13) in [ValeMerch/Git_GitHub](https://github.com/ValeMerch/Git_GitHub)
-3. ❗️ Opened issue [#13](https://github.com/ValeMerch/Git_GitHub/issues/13) in [ValeMerch/Git_GitHub](https://github.com/ValeMerch/Git_GitHub)
-4. ❗️ Opened issue [#12](https://github.com/chochy2001/Git_GitHub/issues/12) in [chochy2001/Git_GitHub](https://github.com/chochy2001/Git_GitHub)
-5. ❗️ Closed issue [#11](https://github.com/chochy2001/Git_GitHub/issues/11) in [chochy2001/Git_GitHub](https://github.com/chochy2001/Git_GitHub)
-<!--END_SECTION:activity-->
-
-</details>
-
-
-[Adobe]: https://www.adobe.com/mx/creativecloud.html?sdid=KQPRD&mv=search&ef_id=Cj0KCQjwmIuDBhDXARIsAFITC_4eIsfU0B1LEkZGVLr6Ql-FPQtYPLw5mGJbZSvEDzlvGf3CGKFJGTUaAk6dEALw_wcB:G:s&s_kwcid=AL!3085!3!442675031911!e!!g!!adobe!188200542!10039634022&gclid=Cj0KCQjwmIuDBhDXARIsAFITC_4eIsfU0B1LEkZGVLr6Ql-FPQtYPLw5mGJbZSvEDzlvGf3CGKFJGTUaAk6dEALw_wcB
-[website]: https://capdesis.com/
-[youtube]: https://www.youtube.com/channel/UChoDyFV5T1t9qWymeTz8Gvg
-[instagram]: https://www.instagram.com/c_h_o_c_h_y/
-[Facebook]: https://www.facebook.com/ChoChochitos
-[linkedin]: https://www.linkedin.com/in/jorge-salgado-miranda-74023b181/
-[cursoC]: https://www.udemy.com/course/programacion_en_c_desde_cero_a_experto/?referralCode=D0CF1FABF59B2D29079B
-[cursoGit&GitHub]: https://www.udemy.com/course/git-y-github-desde-cero-a-experto/?referralCode=D1D66BA1BD00C54733FF
-[cursoPhotoshop]: https://www.udemy.com/course/introduccion-a-adobe-photoshop-cc-2020-actualizado/?referralCode=B156AD3A3E7122C398DB
-[web]:  https://www.google.com/
-
-[Formulae]: https://play.google.com/store/apps/details?id=capdesis.formulae
-[FormulaePro]: https://play.google.com/store/apps/details?id=com.formulae.pro.formulae_calculo_pro
-[Fisica]: https://play.google.com/store/apps/details?id=app.ejemplocalc.CalculadoraFisica
 
