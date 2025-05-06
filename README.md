@@ -35,3 +35,6 @@ __Desarrollo web:__
 
 
 
+[website]:https://cv-alanyaeltaverabazan.vercel.app/
+[LinkedIn]:https://www.linkedin.com/in/alantavera/
+
