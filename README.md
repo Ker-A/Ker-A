@@ -1,9 +1,6 @@
-### ¡Hola a todos! Mi nombre es Alan - KerA 👋
+# ¡Hola a todos! Mi nombre es Alan - KerA 👋
 
 ## Soy FrontEnd Developer
-![Website](https://img.shields.io/website?url=https%3A%2F%2Fcv-alanyaeltaverabazan.vercel.app%2F&style=for-the-badge)
-
-
 
 ### Contactame!:
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
@@ -19,6 +16,9 @@ __Generales:__
 <br />
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 <br />
 
@@ -36,19 +36,5 @@ __Desarrollo web:__
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 <br />
 
----
-__IDEs/Editors:__
-<br />
-![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white)
-
-<br />
-
----
-__Diseño:__
-<br />
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-<br />
-
----
 
 
