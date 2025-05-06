@@ -3,11 +3,8 @@
 ## Soy FrontEnd Developer
 
 ### Contactame!:
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 ![Website](https://img.shields.io/website?url=https%3A%2F%2Fcv-alanyaeltaverabazan.vercel.app%2F&style=for-the-badge)
-
-[<img align="bottom" alt="capdesis.com" width="22px" src="https://cdn.icon-icons.com/icons2/1154/PNG/512/1486564415-globe_81515.png" />][website]
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />][linkedin]
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 <br />
 
 ### Lenguajes y Herramientas que utilizo:
