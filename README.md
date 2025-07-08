@@ -1,4 +1,4 @@
-<h1> ¡Hola a todos! Mi nombre es Alan - KerA 👋 </h1> 
+<h1 align="center"> ¡Hola a todos! Mi nombre es Alan 👋 </h1> 
 
 ## 👨‍💻 Soy FrontEnd Developer
 
