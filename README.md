@@ -9,7 +9,7 @@
 
 
 ### 👨🏻‍💻 &nbsp;Sobre Mi
-🎓 &nbsp;Soy egresado de Ingeniería en computación. Estoy ampliando mis conocimientos en desarrollo front-end y busco ponerlos en practica. Me encanta aprender y crear algo nuevo, productivo, innovador y creativo. 
+🎓 &nbsp;Soy egresado de Ingeniería en computación. Estoy ampliando mis conocimientos en desarrollo front-end y busco ponerlos en practica. Me encanta aprender y crear algo nuevo, productivo, innovador y creativo.\
 💬 &nbsp;Me gusta explorar nuevas tecnologías y desarrollar soluciones.\
 🌱 &nbsp;Estoy en camino de aprender más sobre Inteligencia Artificial y como se puede utilizar para mejorar la eficiencia y eficacia.\
 💡 &nbsp;Me gusta explorar nuevas tecnologías y desarrollar soluciones.\
