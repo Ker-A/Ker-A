@@ -4,14 +4,14 @@
 
 <h3 align="center">
   Hola, mi nombre es Alan
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="38">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50">
 </h3>
 
 
 ### 👨🏻‍💻 &nbsp;Sobre Mi
 Soy egresado de Ingeniera en computación. Estoy ampliando mis conocimientos en desarrollo front-end y busco ponerlos en practica. Me encanta aprender y crear algo nuevo, productivo, innovador y creativo.\
 💡 &nbsp;Me gusta explorar nuevas tecnologías y desarrollar soluciones.\
-✍️ &nbsp;Estoy en camino de aprender más sobre Inteligencia Artificial y como se puede utilizar para mejorar la eficiencia y eficacia.\
+✍️ &nbsp;Estoy en camino de aprender más sobre Inteligencia Artificial y como se puede utilizar para mejorar la eficiencia y eficacia.
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
