@@ -40,7 +40,7 @@
 
 
 
-### ⚙️ &nbsp;GitHub Analytics
+### ⚙️ &nbsp;Analiticas de GitHub
 
 <p align="center">
 <a href="https://github.com/AVS1508">
