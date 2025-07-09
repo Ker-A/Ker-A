@@ -11,10 +11,8 @@
 ### 👨🏻‍💻 &nbsp;Sobre Mi
 🎓 &nbsp;Soy egresado de Ingeniería en computación. Estoy ampliando mis conocimientos en desarrollo front-end y busco ponerlos en practica.\
 📄 &nbsp;Me encanta aprender y crear algo nuevo, productivo, innovador y creativo.\
-💬 &nbsp;Me gusta explorar nuevas tecnologías y desarrollar soluciones.\
-🌱 &nbsp;Estoy en camino de aprender más sobre Inteligencia Artificial y como se puede utilizar para mejorar la eficiencia y eficacia.\
 💡 &nbsp;Me gusta explorar nuevas tecnologías y desarrollar soluciones.\
-✍️ &nbsp;Estoy en camino de aprender más sobre Inteligencia Artificial y como se puede utilizar para mejorar la eficiencia y eficacia.
+🌱 &nbsp;Estoy en camino de aprender más sobre Inteligencia Artificial y como se puede utilizar para mejorar la eficiencia y eficacia.
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
